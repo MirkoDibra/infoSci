@@ -9,7 +9,7 @@ def mouseClicked():
     global dice
     fill(255,255,255)
     
-    square(100,100,500)
+    rect(100,100,500,500,55)
     
     fill(255,0,0)
     
