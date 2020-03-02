@@ -27,3 +27,7 @@ void loop()
 }
 
 ```
+
+The image of the circuit in Fig.1
+![Circuit](Circuit.png)
+Fig.1 Circuit used for the traffic light
