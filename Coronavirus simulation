@@ -1,4 +1,4 @@
-```
+```.py
 # def of variables
 x = [100]
 y = [100]
@@ -80,6 +80,6 @@ def barGraph():
     text(sick,100,490)
     text("Iterations",400,450)
     text(frameCount,480,450)
-    ```.py
+    ```
     
     
